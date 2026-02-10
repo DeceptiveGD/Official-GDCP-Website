@@ -8,7 +8,7 @@ let mainpage = "";
 async function welcomePage()
 {
     mainpage = await firstPage();
-    routes["/"] = mainpage;
+    routes["/Official-GDCP-Website/"] = mainpage;
     console.log(mainpage);
     nextStep();
 }
@@ -16,7 +16,7 @@ async function welcomePage()
 async function toListPage()
 {
     mainpage = await listPage();
-    routes["/"] = mainpage;
+    routes["/Official-GDCP-Website/list"] = mainpage;
     console.log(mainpage);
     nextStep();
 }
