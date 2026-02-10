@@ -1,19 +1,35 @@
-let htmlBodyCode = "";
+import {mainPage as firstPage} from "./mainpage.js"
+import {mainPage as listPage} from "./listpage.js"
 
-function mainPage()
+const routes = {}
+
+let mainpage = "";
+
+async function welcomePage()
 {
-    let htmlCode = "";
-    var body = document.getElementById("container");
-
-    //gets html text from header file
-    fetch("./main/framework/mainpage.html")
-    .then(response => {
-    return response.text();
-    })
-    .then(htmlText => {
-        htmlCode = htmlText;
-        htmlBodyCode += htmlCode;
-        //writes the fetched html code into index.html
-        body.innerHTML = htmlCode;
-    });
+    mainpage = await firstPage();
+    routes["/"] = mainpage;
+    console.log(mainpage);
+    nextStep();
 }
+
+async function toListPage()
+{
+    mainpage = await listPage();
+    routes["/"] = mainpage;
+    console.log(mainpage);
+    nextStep();
+}
+
+function nextStep()
+{
+    const path = window.location.pathname;
+    const container = document.getElementById("container");
+    console.log(path);
+
+    container.innerHTML = routes[path] || "404 Not found";
+}
+
+window.onpopstate = welcomePage;
+
+window.welcomePage = welcomePage;
