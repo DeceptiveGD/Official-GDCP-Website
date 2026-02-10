@@ -2,7 +2,6 @@ let htmlBodyCode = "";
 
 function mainPage()
 {
-    console.log("javascript")
     let htmlCode = "";
     var body = document.getElementById("lefttext");
 
