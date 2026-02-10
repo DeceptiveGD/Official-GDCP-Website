@@ -2,7 +2,6 @@ let htmlBodyCode = "";
 
 function mainPage()
 {
-    console.log("javascript")
     let htmlCode = "";
     var body = document.getElementById("container");
 
@@ -14,7 +13,6 @@ function mainPage()
     .then(htmlText => {
         htmlCode = htmlText;
         htmlBodyCode += htmlCode;
-        console.log("this work");
         //writes the fetched html code into index.html
         body.innerHTML = htmlCode;
     });
