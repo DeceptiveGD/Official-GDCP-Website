@@ -5,6 +5,8 @@ const routes = {}
 
 let mainpage = "";
 
+console.log("hello")
+
 async function welcomePage()
 {
     mainpage = await firstPage();
