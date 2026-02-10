@@ -5,13 +5,10 @@ const routes = {}
 
 let mainpage = "";
 
-console.log("hello")
-
 async function welcomePage()
 {
     mainpage = await firstPage();
     routes["/Official-GDCP-Website/"] = mainpage;
-    console.log(mainpage);
     nextStep();
 }
 
@@ -19,7 +16,6 @@ async function toListPage()
 {
     mainpage = await listPage();
     routes["/Official-GDCP-Website/list"] = mainpage;
-    console.log(mainpage);
     nextStep();
 }
 
