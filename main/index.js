@@ -1,5 +1,6 @@
 import {mainPage as firstPage} from "./mainpage.js"
 import {mainPage as listPage} from "./listpage.js"
+//import for lb and rl
 
 const routes = {}
 
@@ -15,7 +16,21 @@ async function welcomePage()
 async function toListPage()
 {
     mainpage = await listPage();
-    routes["/Official-GDCP-Website/list"] = mainpage;
+    routes["/api/list/"] = mainpage;
+    nextStep();
+}
+
+async function toLeaderboardPage()
+{
+    mainpage = await listPage();
+    routes["/Official-GDCP-Website/api/leaderboard/"] = mainpage;
+    nextStep();
+}
+
+async function toRoulettePage()
+{
+    mainpage = await listPage();
+    routes["/Official-GDCP-Website/api/roulette/"] = mainpage;
     nextStep();
 }
 
@@ -31,3 +46,6 @@ function nextStep()
 window.onpopstate = welcomePage;
 
 window.welcomePage = welcomePage;
+window.toListPage = toListPage;
+window.toLeaderboardPage = toLeaderboardPage;
+window.toRoulettePage = toRoulettePage;
