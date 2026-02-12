@@ -16,7 +16,7 @@ async function welcomePage()
 async function toListPage()
 {
     mainpage = await listPage();
-    routes["/api/list/"] = mainpage;
+    routes["/Official-GDCP-Website/api/list/"] = mainpage;
     nextStep();
 }
 
