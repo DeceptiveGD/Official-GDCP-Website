@@ -18,21 +18,21 @@ async function welcomePage()
 async function toListPage()
 {
     mainpage = await listPage();
-    routes["/Official-GDCP-Website/api/list/index.html"] = mainpage;
+    routes["/Official-GDCP-Website/api/list/"] = mainpage;
     nextStep();
 }
 
 async function toLeaderboardPage()
 {
     mainpage = await leaderboardPage();
-    routes["/Official-GDCP-Website/api/leaderboard/index.html"] = mainpage;
+    routes["/Official-GDCP-Website/api/leaderboard/"] = mainpage;
     nextStep();
 }
 
 async function toRoulettePage()
 {
     mainpage = await roulettePage();
-    routes["/Official-GDCP-Website/api/roulette/index.html"] = mainpage;
+    routes["/Official-GDCP-Website/api/roulette/"] = mainpage;
     nextStep();
 }
 
