@@ -3,14 +3,10 @@ body
     background-color: rgb(171, 16, 171);
 }
 
-a:link, a:visited, a:hover
+a:link, a:visited, a:hover, a:active
 {
     text-decoration: none;
     color: inherit;
-}
-a:active
-{
-    color: aquamarine;
 }
 
 .table100
@@ -32,7 +28,7 @@ a:active
 {
     width: 50%;
     height: 50px;
-    background-color: aqua;
+    background-color: rgb(0, 191, 255);
     border-radius: 5px;
     border-color: aqua;
     font-size: 18px;
