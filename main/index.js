@@ -1,6 +1,8 @@
 import {mainPage as firstPage} from "./mainpage.js"
 import {mainPage as listPage} from "./listpage.js"
-//import for lb and rl
+import {mainPage as leaderboardPage} from "./leaderboardpage.js"
+import {mainPage as roulettePage} from "./roulettepage.js"
+
 
 const routes = {}
 
@@ -22,14 +24,14 @@ async function toListPage()
 
 async function toLeaderboardPage()
 {
-    mainpage = await listPage();
+    mainpage = await leaderboardPage();
     routes["/Official-GDCP-Website/api/leaderboard/index.html"] = mainpage;
     nextStep();
 }
 
 async function toRoulettePage()
 {
-    mainpage = await listPage();
+    mainpage = await roulettePage();
     routes["/Official-GDCP-Website/api/roulette/index.html"] = mainpage;
     nextStep();
 }
