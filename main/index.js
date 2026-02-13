@@ -1,8 +1,8 @@
 import {mainPage as firstPage} from "./mainpage.js"
-import {mainPage as listPage} from "./listpage.js"
+import {mainPage as classiclistPage} from "./listpage.js"
 import {mainPage as leaderboardPage} from "./leaderboardpage.js"
 import {mainPage as roulettePage} from "./roulettepage.js"
-
+import {mainPage as platlistPage} from "./roulettepage.js"
 
 const routes = {}
 
@@ -17,8 +17,8 @@ async function welcomePage()
 
 async function toListPage()
 {
-    mainpage = await listPage();
-    routes["/Official-GDCP-Website/api/list/"] = mainpage;
+    mainpage = await classiclistPage();
+    routes["/Official-GDCP-Website/api/classiclist/"] = mainpage;
     nextStep();
 }
 
@@ -36,6 +36,13 @@ async function toRoulettePage()
     nextStep();
 }
 
+async function toPlatlistPage()
+{
+    mainpage = await platlistPage();
+    routes["/Official-GDCP-Website/api/platformerlist/"] = mainpage;
+    nextStep();
+}
+
 function nextStep()
 {
     const path = window.location.pathname;
@@ -45,9 +52,32 @@ function nextStep()
     container.innerHTML = routes[path] || "404 Not found";
 }
 
+//background color fade functions
+
+function startColorInterval()
+{
+    let firstActive = false;
+    if (firstActive == false)
+    {
+        colorFade();
+        firstActive = true;
+    }
+
+    setInterval(colorFade, 3000);
+}
+
+function colorFade()
+{
+    const bgColor = document.body;
+    bgColor.classList.toggle("highlighted")
+}
+
 window.onpopstate = welcomePage;
 
 window.welcomePage = welcomePage;
 window.toListPage = toListPage;
 window.toLeaderboardPage = toLeaderboardPage;
 window.toRoulettePage = toRoulettePage;
+window.toPlatlistPage = toPlatlistPage;
+
+window.startColorInterval = startColorInterval;
