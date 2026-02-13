@@ -94,7 +94,7 @@ a:link, a:visited, a:hover, a:active
     right: 50%;
     margin-left: -50vw;
     margin-right: -50vw;
-    margin-bottom: -500vw;
+    margin-bottom: -5000vw;
 }
 
 #innerFooter
@@ -104,6 +104,7 @@ a:link, a:visited, a:hover, a:active
     color: white;
     padding: 10px;
     text-align: center;
+    vertical-align: top;
 }
 
 #menubar
