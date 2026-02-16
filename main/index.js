@@ -8,7 +8,7 @@ const routes = {}
 
 let mainpage = "";
 
-async function welcomePage()
+async function homePage()
 {
     mainpage = await firstPage();
     routes["/Official-GDCP-Website/"] = mainpage;
@@ -74,7 +74,7 @@ function colorFade()
 
 window.onpopstate = welcomePage;
 
-window.welcomePage = welcomePage;
+window.homePage = homePage;
 window.toListPage = toListPage;
 window.toLeaderboardPage = toLeaderboardPage;
 window.toRoulettePage = toRoulettePage;
