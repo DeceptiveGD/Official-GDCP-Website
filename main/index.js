@@ -72,7 +72,7 @@ function colorFade()
     bgColor.classList.toggle("highlighted")
 }
 
-window.onpopstate = welcomePage;
+window.onpopstate = homePage;
 
 window.homePage = homePage;
 window.toListPage = toListPage;
