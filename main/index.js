@@ -1,8 +1,8 @@
 import {mainPage as firstPage} from "./mainpage.js"
 import {mainPage as classiclistPage} from "./listpage.js"
+import {mainPage as platlistPage} from "./platformerlistpage.js"
 import {mainPage as leaderboardPage} from "./leaderboardpage.js"
 import {mainPage as roulettePage} from "./roulettepage.js"
-import {mainPage as platlistPage} from "./roulettepage.js"
 
 const routes = {}
 
