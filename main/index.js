@@ -4,9 +4,15 @@ import {mainPage as platlistPage} from "./platformerlistpage.js"
 import {mainPage as leaderboardPage} from "./leaderboardpage.js"
 import {mainPage as roulettePage} from "./roulettepage.js"
 
+import {mainPage as footerInfo} from "./footer.js"
+
 const routes = {}
 
 let mainpage = "";
+
+let classicbool = false;
+let platformerbool = false;
+let leaderboardbool = false;
 
 async function homePage()
 {
@@ -43,13 +49,43 @@ async function toPlatlistPage()
     nextStep();
 }
 
-function nextStep()
+async function nextStep()
 {
     const path = window.location.pathname;
     const container = document.getElementById("container");
     console.log(path);
 
     container.innerHTML = routes[path] || "404 Not found";
+
+    if (classicbool == true) classicJSON();
+
+    const footer = document.getElementById("footer");
+    const footerHTML = await footerInfo();
+    console.log(footerHTML);
+
+    footer.innerHTML = footerHTML;
+}
+
+//Get JSON file functions
+
+async function classicJSON()
+{
+    const response = await fetch("../../main/json/list.json");
+    const levels = await response.json();
+    let listCount = levels.length;
+    console.log(listCount) 
+
+    var text = "";
+    for (var i = 0; i < listCount; i++)
+    {
+        let challenge = levels[i];
+
+        text += "<tr><td class=\"levelitem\">" + (i+1) + ". "+ challenge +"</td></tr>"
+    }
+    const innerlist = document.getElementById("innerlevellist");
+    innerlist.innerHTML = text;
+
+    classicbool = false;
 }
 
 //background color fade functions
