@@ -28,6 +28,7 @@ async function toListPage()
 {
     mainpage = await classiclistPage();
     routes["/Official-GDCP-Website/api/classiclist/"] = mainpage;
+    classicbool = true;
     nextStep();
 }
 
