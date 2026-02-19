@@ -5,11 +5,13 @@ import {mainPage as leaderboardPage} from "./leaderboardpage.js"
 import {mainPage as roulettePage} from "./roulettepage.js"
 
 import {mainPage as footerInfo} from "./footer.js"
+import {mainPage as mainpageFooterInfo} from "./mainpagefooter.js"
 
 const routes = {}
 
 let mainpage = "";
 
+let mainpagebool = false;
 let classicbool = false;
 let platformerbool = false;
 let leaderboardbool = false;
@@ -18,6 +20,7 @@ async function homePage()
 {
     mainpage = await firstPage();
     routes["/Official-GDCP-Website/"] = mainpage;
+    mainpagebool = true;
     nextStep();
 }
 
@@ -60,7 +63,15 @@ async function nextStep()
     if (classicbool == true) classicJSON();
 
     const footer = document.getElementById("footer");
-    const footerHTML = await footerInfo();
+    let footerHTML = "";
+    if (mainpagebool == false)
+    {
+        footerHTML = await footerInfo();
+    }
+    else
+    {
+        footerHTML = await mainpageFooterInfo();
+    }
     console.log(footerHTML);
 
     footer.innerHTML = footerHTML;
