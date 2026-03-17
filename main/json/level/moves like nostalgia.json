@@ -1,0 +1,32 @@
+{
+    "id": 109289665,
+    "name": "moves like nostalgia",
+    "author": "soap",
+    "creators": ["soap"],
+    "verifier": "soap",
+    "verification": "https://www.youtube.com/watch?v=Y3op45aBUDg&start=38",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "whippd",
+            "hz": 480,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "ImFeelingGreen",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 120,
+            "percent": 100
+        }
+    ]
+}

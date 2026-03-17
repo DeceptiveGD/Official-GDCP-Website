@@ -1,0 +1,52 @@
+{
+    "id": 117092591,
+    "name": "pisscubed",
+    "author": "Marcs2712",
+    "creators": ["Marcs2712"],
+    "verifier": "Marcs2712",
+    "verification": "https://youtu.be/smHvvxMjVJM",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Miksutic",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 120,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "venla",
+            "hz": 480,
+            "percent": 100
+        },
+        {
+            "user": "Zovori",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "raver",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "SH41N3",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Entershift",
+            "hz": 480,
+            "percent": 100
+        }
+    ]
+}

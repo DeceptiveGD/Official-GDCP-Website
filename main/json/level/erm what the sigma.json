@@ -1,0 +1,28 @@
+{
+    "id": 106005679,
+    "name": "erm what the sigma",
+    "author": "VileBunny",
+    "creators": ["VileBunny"],
+    "verifier": "KrisYa",
+    "verification": "https://youtu.be/2kLvA8tgzC8",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "video": "https://www.youtube.com/watch?v=jfELbClZFLo",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "whippd",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

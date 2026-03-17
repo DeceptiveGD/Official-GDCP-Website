@@ -1,0 +1,32 @@
+{
+    "id": 108536496,
+    "name": "10 minutes",
+    "author": "whippd",
+    "creators": ["whippd"],
+    "verifier": "whippd",
+    "verification": "https://www.youtube.com/watch?v=zcnw8N6gZSQ",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Koozoo2000",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 120,
+            "percent": 100
+        }
+    ]
+}

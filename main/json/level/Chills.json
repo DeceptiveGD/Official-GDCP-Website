@@ -1,0 +1,37 @@
+{
+    "id": 116980170,
+    "name": "Chills",
+    "author": "Tsa",
+    "creators": ["Tsa"],
+    "verifier": "NatNat",
+    "verification": "https://youtu.be/0t57nXoKQ5s",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Turbometric",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Potato",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "noob",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Umbra",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

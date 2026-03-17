@@ -1,0 +1,79 @@
+{
+    "id": 107721567,
+    "name": "sadcraft suck an egg",
+    "author": "runaia",
+    "creators": ["runaia"],
+    "verifier": "runaia",
+    "verification": "https://youtu.be/fwOfhwMHrWY",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "allu",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "SadCraft0o",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "naqte",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=DOqMblbvE_g",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "shakupencheesegd",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Turbometric",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "EndGrain",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 500,
+            "percent": 100
+        },
+        {
+            "user": "whippd",
+            "hz": 480,
+            "percent": 100
+        },
+        {
+            "user": "frostytoes",
+            "hz": 144,
+            "percent": 100
+        }
+    ]
+}

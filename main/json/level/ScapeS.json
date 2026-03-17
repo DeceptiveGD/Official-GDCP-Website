@@ -1,0 +1,42 @@
+{
+    "id": 111670200,
+    "name": "ScapeS",
+    "author": "River",
+    "creators": ["River"],
+    "verifier": "River",
+    "verification": "https://youtu.be/cZnx9gdmaE0",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "whippd",
+            "hz": 480,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Zovori",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

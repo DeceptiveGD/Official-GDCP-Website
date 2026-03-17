@@ -1,0 +1,23 @@
+{
+    "id": 114056308,
+    "name": "Wadaprik Extended",
+    "author": "CodFished",
+    "creators": ["CodFished"],
+    "verifier": "CodFished",
+    "verification": "https://youtu.be/U51ATJ-rkZ8",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "potato",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Paradox",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}       
+

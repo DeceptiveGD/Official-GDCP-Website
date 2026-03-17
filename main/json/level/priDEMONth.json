@@ -1,0 +1,39 @@
+{
+    "id": 106307299,
+    "name": "priDEMONth",
+    "author": "NatNat",
+    "creators": ["NatNat"],
+    "verifier": "NatNat",
+    "verification": "https://youtu.be/PLyRQrzRd08",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "KrisYa",
+            "video": "https://youtu.be/bEWt0owD7Bg?si=BXhm8hyWmgOXrnSm",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "whippd",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Potato",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        }
+        
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 105552667,
+    "name": "Solar Seven",
+    "author": "SadCraft0o",
+    "creators": ["SolarRocks"],
+    "verifier": "SadCraft0o",
+    "verification": "https://www.youtube.com/watch?v=cvKhbT7F2VQ&t=1277s",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "potato",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=PSWT2q9Wn1Q",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "BLUEJAYOO",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 107985959,
+    "name": "8 jumps of skibidi",
+    "author": "ChatGPT",
+    "creators": ["ChatGPT"],
+    "verifier": "ChatGPT",
+    "verification": "https://www.youtube.com/watch?v=oO86ypTaehs",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=7O4DVjt-ml4",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "video": "https://youtu.be/CdwSvZ15DQg?si=71IA0CVsaECeoO36",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 120,
+            "percent": 100
+        },
+        {
+            "user": "BLUJAYOO",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

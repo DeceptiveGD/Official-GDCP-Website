@@ -1,0 +1,17 @@
+{
+    "id": 109533508,
+    "name": "Balls n Nuts",
+    "author": "Tresarcusu",
+    "creators": ["Tresarcusu"],
+    "verifier": "Tresarcusu",
+    "verification": "https://www.youtube.com/watch?v=GOP87AOS5_E",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Maxa",
+            "hz": 144,
+            "percent": 100
+        }
+    ]
+}

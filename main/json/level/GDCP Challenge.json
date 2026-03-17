@@ -1,0 +1,48 @@
+{
+    "id": 108807433,
+    "name": "GDCP Challenge",
+    "author": "whippd",
+    "creators": ["whippd"],
+    "verifier": "whippd",
+    "verification": "https://youtu.be/ksIjsJQsUDk",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Mako",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "EndGrain",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 120,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=6-nc9TSzLr4"
+        },
+        {
+            "user": "stockdown",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

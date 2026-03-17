@@ -1,0 +1,48 @@
+{
+    "id": 105849687,
+    "name": "Monument",
+    "author": "dave",
+    "creators": ["dave"],
+    "verifier": "NatNat",
+    "verification": "https://youtu.be/Kgman5_p8r8",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=PSWT2q9Wn1Q",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "whippd",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "ImFeelingGreen",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 120,
+            "percent": 100
+        },
+        {
+            "user": "KrAzY DuDe LR",
+            "hz": 480,
+            "percent": 100
+        }
+    ]
+}

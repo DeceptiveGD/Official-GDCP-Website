@@ -1,0 +1,49 @@
+{
+    "id": 108654530,
+    "name": "Lunar",
+    "author": "keim",
+    "creators": ["keim"],
+    "verifier": "keim",
+    "verification": "https://youtu.be/D7E9GwCNUKo?si=S4QX5RSEJDaydqGq",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Mako",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "monkey",
+            "hz": 240,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Spunstep",
+            "hz": 162,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}       
+

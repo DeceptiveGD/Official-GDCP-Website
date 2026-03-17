@@ -1,0 +1,33 @@
+{
+    "id": 105809194,
+    "name": "Challenge",
+    "author": "Turbometric",
+    "creators": ["Turbometric"],
+    "verifier": "Turbometric",
+    "verification": "https://youtu.be/UhbQ_5TMxzM",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "potato",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=PSWT2q9Wn1Q",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

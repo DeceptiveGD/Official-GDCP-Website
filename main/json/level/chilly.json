@@ -1,0 +1,56 @@
+{
+    "id": 106333208,
+    "name": "chilly",
+    "author": "Flip15",
+    "creators": ["Flip15"],
+    "verifier": "Flip15",
+    "verification": "https://youtu.be/5ttiyh9eVU0",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "video": "",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "potato",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://youtu.be/bEWt0owD7Bg?si=BXhm8hyWmgOXrnSm",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+           
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "frostytoes",
+           
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

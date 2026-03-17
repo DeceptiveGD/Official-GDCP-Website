@@ -1,0 +1,27 @@
+{
+    "id": 112755113,
+    "name": "FC V2",
+    "author": "EABH",
+    "creators": ["EABH"],
+    "verifier": "EABH",
+    "verification": "https://youtu.be/L0SuOymcCTk",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Turbometric",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 120,
+            "percent": 100
+        }
+    ]
+}

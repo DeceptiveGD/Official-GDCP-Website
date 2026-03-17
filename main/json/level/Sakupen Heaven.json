@@ -1,0 +1,38 @@
+{
+    "id": 108010988,
+    "name": "Sakupen Heaven",
+    "author": "Gp0",
+    "creators": ["Gp0"],
+    "verifier": "Gp0",
+    "verification": "https://www.youtube.com/watch?v=u2O-fa1Ju5A",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "video": "https://youtu.be/CdwSvZ15DQg?si=71IA0CVsaECeoO36",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Krusevac",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "tFluffy",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id":  94767730,
+    "name": "koozoochism",
+    "author": "whippd",
+    "creators": ["whippd"],
+    "verifier": "whippd",
+    "verification": "https://youtu.be/H1Tqjadet-0",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "ImFeelingGreen",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

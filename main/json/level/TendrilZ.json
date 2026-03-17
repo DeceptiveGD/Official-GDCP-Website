@@ -1,0 +1,17 @@
+{
+    "id": 114487267,
+    "name": "TendrilZ",
+    "author": "NatNat",
+    "creators": ["Leapo and Bumelix"],
+    "verifier": "NatNat",
+    "verification": "https://youtu.be/bNIEjhs5R8k",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

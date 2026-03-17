@@ -1,0 +1,44 @@
+{
+    "id": 106508358,
+    "name": "Cognizant",
+    "author": "dave",
+    "creators": ["dave"],
+    "verifier": "NatNat",
+    "verification": "https://youtu.be/sze0hX8WRak?si=iDEVh1rFdJ-eoaAT",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=DOqMblbvE_g",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "video": "https://youtu.be/Fmf5_PWnJLI",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "whippd",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "ringer",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 108279570,
+    "name": "Triangles in wave",
+    "author": "Miksutic",
+    "creators": ["Miksutic"],
+    "verifier": "Miksutic",
+    "verification": "https://www.youtube.com/watch?v=BKDKKMLgHEw",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Monkey",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Bobify",
+            "hz": 240,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=qpzjeDWoZ8A"
+        },
+        {
+            "user": "Spunstep",
+            "hz": 500,
+            "percent": 100
+        },
+        {
+            "user": "EndGrain",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "kagu",
+            "hz": 120,
+            "percent": 100
+        },
+        {
+            "user": "frostytoes",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=6-nc9TSzLr4"
+        }
+    ]
+}

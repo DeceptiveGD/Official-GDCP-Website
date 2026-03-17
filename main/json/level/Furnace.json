@@ -1,0 +1,16 @@
+{
+    "id": 127142002,
+    "name": "Furnace",
+    "author": "",
+    "creators": [""],
+    "verifier": "Noob",
+    "verification": "https://youtu.be/hrgatKrvScw",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

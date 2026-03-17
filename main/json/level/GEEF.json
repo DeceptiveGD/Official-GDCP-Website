@@ -1,0 +1,54 @@
+{
+    "id": 106977125,
+    "name": "GEEF",
+    "author": "Gp0",
+    "creators": ["Gp0"],
+    "verifier": "Gp0",
+    "verification": "https://youtu.be/CIak55y3-jc",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "video": "",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=DOqMblbvE_g",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "whippd",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "jdeen",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Sylvia",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "KrAzY DuDe LR",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

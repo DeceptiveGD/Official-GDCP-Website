@@ -1,0 +1,27 @@
+{
+    "id": 112125579,
+    "name": "flow",
+    "author": "Sadcraft0o",
+    "creators": ["Sadcraft0o"],
+    "verifier": "potato",
+    "verification": "https://youtu.be/HiMe7fKwF5k",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+       {
+            "user": "Maxa",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Pikledoge",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Inputname",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

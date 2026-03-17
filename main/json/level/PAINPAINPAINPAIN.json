@@ -1,0 +1,38 @@
+{
+    "id": 106005278,
+    "name": "PAINPAINPAINPAIN",
+    "author": "cralxn",
+    "creators": ["DSL, cralxn"],
+    "verifier": "cralxn",
+    "verification": "https://youtu.be/Bmfn-lI1bsg",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=DOqMblbvE_g",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

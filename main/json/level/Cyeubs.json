@@ -1,0 +1,63 @@
+{
+    "id": 102887982,
+    "name": "Cyeubs",
+    "author": "Leapo",
+    "creators": ["Leapo"],
+    "verifier": "Leapo",
+    "verification": "https://youtu.be/OaMJfgV1OJw",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "allu",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "naqte",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "SadCraft0o",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=DOqMblbvE_g",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "mewo",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "id":  108384251,
+    "name": "MAYMORY",
+    "author": "FraTernity",
+    "creators": ["FraTernity"],
+    "verifier": "FraTernity",
+    "verification": "https://youtu.be/-pD7jf9QPp4?si=6ed_z90x6h_FA8y7",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [ 
+        {
+            "user": "Isnt_Adam",
+            "video": "https://www.youtube.com/watch?v=BbUdcAou7bs",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Turbometric",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Mylam999",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Ballerman93",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "video": "https://youtu.be/qUIbJqa0IDg",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Slashy",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "allu",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Frostytoes",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Monkey",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 500,
+            "percent": 100
+        },
+        {
+            "user": "tyhhkyfv",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "mylam's little sister",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "KingClockerYT1",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "indium300",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": 110169794,
+    "name": "Stuck For Eternity",
+    "author": "Deezy",
+    "creators": ["Deezy"],
+    "verifier": "Deezy",
+    "verification": "https://www.youtube.com/watch?v=HB9rsMxVswo",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Monkey",
+            "hz": 240,
+            "percent": 100,
+            "video": "https://youtu.be/bKEy-6Qoh84"
+        },
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Mylam999",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "mewo",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

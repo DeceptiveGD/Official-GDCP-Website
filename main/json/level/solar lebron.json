@@ -1,0 +1,27 @@
+{
+    "id": 119814403,
+    "name": "solar lebron",
+    "author": "CeCeCaCa",
+    "creators": ["CeCeCaCa"],
+    "verifier": "CeCeCaCa",
+    "verification": "https://youtu.be/h0uXxlJt1n0",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Mikstutic",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Confusion",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

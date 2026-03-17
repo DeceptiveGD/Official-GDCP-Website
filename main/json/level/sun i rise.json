@@ -1,0 +1,48 @@
+{
+    "id": 105910776,
+    "name": "sun i rise",
+    "author": "VileBunny",
+    "creators": ["VileBunny"],
+    "verifier": "VileBunny",
+    "verification": "https://youtu.be/HLJzhC6XZUk",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=PSWT2q9Wn1Q",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Potato",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Inputname",
+            "hz": 460,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": 110173841,
+    "name": "Unnamed 2147483647",
+    "author": "Sabre6ix",
+    "creators": ["manny"],
+    "verifier": "Turbometric",
+    "verification": "https://www.youtube.com/watch?v=UtMog6GmwAI",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "whippd",
+            "hz": 480,
+            "percent": 100
+        },
+        {
+            "user": "Potato",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

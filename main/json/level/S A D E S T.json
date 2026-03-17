@@ -1,0 +1,81 @@
+{
+    "id": 105793338,
+    "name": "S A D E S T",
+    "author": "cralxn",
+    "creators": ["DSL, cralxn"],
+    "verifier": "dave",
+    "verification": "https://youtu.be/xOsqivPfaCQ",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "monkey",
+            "hz": 240,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=PSWT2q9Wn1Q",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "SadCraft0o",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "naqte",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "shakupencheesegd",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Bobify",
+            "hz": 240,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=Zi2p5-iBWu4"
+        },
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 120,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=VYH85r6gnP0"
+        },
+        {
+            "user": "deacnome",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

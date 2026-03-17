@@ -1,0 +1,18 @@
+{
+    "id":  109919775,
+    "name": "mewoscapes",
+    "author": "Mylam999",
+    "creators": ["Mylam999"],
+    "verifier": "NatNat",
+    "verification": "https://youtu.be/JxsvY8L8TVI",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=w5jRcuN27jg&t=10s"
+        }
+    ]
+}

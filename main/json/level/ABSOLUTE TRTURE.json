@@ -1,0 +1,48 @@
+{
+    "id": 107807626,
+    "name": "ABSOLUTE TRTURE",
+    "author": "runaia",
+    "creators": ["runaia"],
+    "verifier": "runaia",
+    "verification": "https://youtu.be/mTaKr9dDsUE",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "allu",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=DOqMblbvE_g",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "mewo",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Mylam999",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

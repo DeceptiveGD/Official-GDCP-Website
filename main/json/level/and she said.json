@@ -1,0 +1,79 @@
+{
+    "id": 108227599,
+    "name": "and she said",
+    "author": "FraTernity",
+    "creators": ["FraTernity"],
+    "verifier": "FraTernity",
+    "verification": "https://www.youtube.com/watch?v=CTULg81UdPQ",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Isnt_Adam",
+            "video": "https://www.youtube.com/watch?v=BbUdcAou7bs",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Ballerman93",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Allu",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "video": "https://youtu.be/qUIbJqa0IDg",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Frostytoes",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Monkey",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 500,
+            "percent": 100
+        },
+        {
+            "user": "tyhhkyfv",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Minotaur256",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "EndGrain",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "yizzing",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

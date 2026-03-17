@@ -1,0 +1,37 @@
+{
+    "id": 105971786,
+    "name": "stt 4x",
+    "author": "NatNat",
+    "creators": ["DSL, cralxn"],
+    "verifier": "KrisYa",
+    "verification": "https://youtu.be/x_YphIWMBsM",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "whippd",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "ImFeelingGreen",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

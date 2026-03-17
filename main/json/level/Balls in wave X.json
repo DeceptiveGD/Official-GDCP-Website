@@ -1,0 +1,17 @@
+{
+    "id": 113849391,
+    "name": "Balls in wave X",
+    "author": "Miksutic",
+    "creators": ["Miksutic"],
+    "verifier": "Miksutic",
+    "verification": "https://www.youtube.com/watch?v=Hbw5fDCiGmk",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [ 
+        {
+            "user": "Hellofriendevan",
+            "hz": 120,
+            "percent": 100
+        }
+    ]
+}

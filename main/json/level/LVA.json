@@ -1,0 +1,37 @@
+{
+    "id": 111569367,
+    "name": "LVA",
+    "author": "Savados",
+    "creators": ["Savados"],
+    "verifier": "Savados",
+    "verification": "https://www.youtube.com/watch?v=EqqH6jcCotw",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Mewo",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Turbometric",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "SchwertBoot",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

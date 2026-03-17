@@ -1,0 +1,95 @@
+{
+    "id": 105665978,
+    "name": "4 second hell",
+    "author": "SadCraft0o",
+    "creators": ["SadCraft0o"],
+    "verifier": "SadCraft0o",
+    "verification": "https://youtu.be/G0zYtZV9nIk",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "ballerman93",
+            "hz": 165,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=PSWT2q9Wn1Q",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "naqte",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Isnt_Adam",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Randum",
+             "hz": 144,
+             "percent": 100
+        },
+        {
+            "user": "shakupencheesegd",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "video": "https://www.youtube.com/watch?v=7DgDJY03TJ8",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Mako",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Frostytoes",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Monkey",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 709,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=Tdcqs4kZpXg"
+        },
+        {
+            "user": "SlysantYT",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

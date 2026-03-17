@@ -1,0 +1,17 @@
+{
+    "id": 114289843,
+    "name": "NO MORE PARTIES",
+    "author": "Flip15",
+    "creators": ["Flip15"],
+    "verifier": "Flip15",
+    "verification": "https://youtu.be/HaDD3fGYsoU",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

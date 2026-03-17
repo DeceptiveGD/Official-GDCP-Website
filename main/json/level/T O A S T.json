@@ -1,0 +1,80 @@
+{
+    "id": 106995841,
+    "name": "T O A S T",
+    "author": "Bagel",
+    "creators": ["Bagel"],
+    "verifier": "Bagel",
+    "verification": "https://youtu.be/hew-qu3HuME",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "DeceptiveGD",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "naqte",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=DOqMblbvE_g",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Ballerman93",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Monkey",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Bobify",
+            "hz": 240,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=rOHgBuMG5g4"
+        },
+        {
+            "user": "Spunstep",
+            "hz": 500,
+            "percent": 100
+        },
+        {
+            "user": "frostytoes",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+        "user": "Miksutic",
+        "hz": 240,
+        "percent": 100
+        }
+    ]
+}

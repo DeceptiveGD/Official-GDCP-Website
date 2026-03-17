@@ -1,0 +1,49 @@
+{
+    "id": 107743253,
+    "name": "shovo",
+    "author": "Trickgmd",
+    "creators": ["Trickgmd"],
+    "verifier": "Monkey",
+    "verification": "https://youtu.be/1Y3gk2S2TMs",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Monkey",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "KingClockerYT1",
+            "hz": 60,
+            "percent": 100
+        },    
+        {
+            "user": "Spunstep",
+            "hz": 500,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "SlysantYT",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "frostytoes",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=VYH85r6gnP0"
+        }
+
+    ]
+}

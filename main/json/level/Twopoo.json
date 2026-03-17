@@ -1,0 +1,27 @@
+{
+    "id": 116187586,
+    "name": "Twopoo",
+    "author": "dave",
+    "creators": ["dave and Leapo"],
+    "verifier": "NatNat",
+    "verification": "https://youtu.be/B1Rdb-Yi8pw?si=aQhxbXQBa_XOOAON",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "ImFeelingGreen",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Paradox",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

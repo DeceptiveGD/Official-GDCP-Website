@@ -1,0 +1,29 @@
+{
+    "id": 108627027,
+    "name": "Mindcap Rebirth",
+    "author": "Mylam999",
+    "creators": ["Mylam999"],
+    "verifier": "Mylam999",
+    "verification": "https://youtu.be/auEnEpe5tHE",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Turbometric",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "video": "https://youtu.be/qUIbJqa0IDg",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

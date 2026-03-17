@@ -1,0 +1,66 @@
+{
+    "id": 93124997,
+    "name": "life is roblox",
+    "author": "FrostyToes",
+    "creators": ["FrostyToes"],
+    "verifier": "FrostyToes",
+    "verification": "https://youtu.be/yal9uLdSRTk",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=PSWT2q9Wn1Q",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "naqte",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "SadCraft0o",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "video": "https://youtu.be/qUIbJqa0IDg",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Monkey",
+            "hz": 240,
+            "percent": 100,
+            "video": "https://youtu.be/UEV9ZtSUImM"
+        },
+        {
+            "user": "Spunstep",
+            "hz": 500,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=6-nc9TSzLr4"
+        }
+    ]
+}

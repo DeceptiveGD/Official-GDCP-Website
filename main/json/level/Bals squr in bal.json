@@ -1,0 +1,33 @@
+{
+    "id": 110446093,
+    "name": "Bals squr in bal",
+    "author": "Miksutic",
+    "creators": ["Miksutic"],
+    "verifier": "Miksutic",
+    "verification": "https://www.youtube.com/watch?v=oblhFoezkQ0",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [     
+    {
+        "user": "tyhhkyfv",
+        "hz": 60,
+        "percent": 100
+    },
+    {
+        "user": "EndGrain",
+        "hz": 144,
+        "percent": 100
+    },
+    {
+        "user": "Spunstep",
+        "hz": 500,
+        "percent": 100
+    },
+    {
+        "user": "allu",
+        "hz": 60,
+        "percent": 100
+    }
+        
+    ]
+}

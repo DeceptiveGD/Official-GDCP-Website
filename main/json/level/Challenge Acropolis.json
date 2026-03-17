@@ -1,0 +1,18 @@
+{
+    "id": 112163911,
+    "name": "Challenge Acropolis",
+    "author": "EABH",
+    "creators": ["EABH"],
+    "verifier": "NatNat",
+    "verification": "https://youtu.be/OpE2L6ePmLY?si=gXTGtepG35HCoQUr",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        }
+      
+    ]
+}

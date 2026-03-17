@@ -1,0 +1,22 @@
+{
+    "id": 112553585,
+    "name": "Fiddling Balls",
+    "author": "whippd",
+    "creators": ["whippd"],
+    "verifier": "whippd",
+    "verification": "https://youtu.be/l5pLXkkcF0g",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Koozoo2000",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 120,
+            "percent": 100
+        }
+    ]
+}

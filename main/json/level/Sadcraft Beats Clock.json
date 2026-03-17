@@ -1,0 +1,17 @@
+{
+    "id": 110554382,
+    "name": "Sadcraft Beats Clock",
+    "author": "Miksutic",
+    "creators": ["Miksutic"],
+    "verifier": "Miksutic",
+    "verification": "https://www.youtube.com/watch?v=-GX5fz9YKR4",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [ 
+        {
+            "user": "NatNat",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

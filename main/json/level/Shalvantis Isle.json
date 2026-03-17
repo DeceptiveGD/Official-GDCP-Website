@@ -1,0 +1,44 @@
+{
+    "id": 96054966,
+    "name": "Shalvantis Isle",
+    "author": "KrisYa",
+    "creators": ["KrisYa"],
+    "verifier": "KrisYa",
+    "verification": "https://youtu.be/WglrwCmebbM",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "video": "https://www.youtube.com/watch?v=Iv4wSxvPmAg",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "smango23",
+            "video": "https://www.youtube.com/watch?v=9juKRsbTScU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "whippd",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "ImFelingGreen",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 120,
+            "percent": 100
+        }
+    ]
+}

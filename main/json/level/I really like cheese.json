@@ -1,0 +1,139 @@
+{
+    "id": 104186493,
+    "name": "I really like cheese",
+    "author": "Vetom1479",
+    "creators": ["Vetom1479"],
+    "verifier": "Vetom1479",
+    "verification": "https://youtu.be/I0y3VhKwkFg",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "ballerman93",
+            "hz": 165,
+            "percent": 100
+        }, 
+        {
+            "user": "Turbometric",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+        "user": "whippd",
+        "hz": 240,
+        "percent": 100
+    },
+        {
+            "user": "SH41N3",
+            "video": "https://medal.tv/games/geometry-dash/clips/ibLMk1bGzatnMTVtD/q2gUzP7DQvk8?invite=cr-MSxub2UsMjA0NjczODMyLA",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "SadCraft0o",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=PSWT2q9Wn1Q",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "DeceptiveGD",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "naqte",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Allu",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Isnt_Adam",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "FraTernity",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "lithiumbatteries",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "shakupencheesegd",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Mylam999",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "video": "https://www.youtube.com/watch?v=7DgDJY03TJ8",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Slashy",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Monkey",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Frostytoes",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 709,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=MLl__s46kmU&feature=youtu.be"
+        },
+        {
+            "user": "tyhhkyfv",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Minotaur256",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": 109156603,
+    "name": "diamond",
+    "author": "Miksutic",
+    "creators": ["Miksutic"],
+    "verifier": "Miksutic",
+    "verification": "https://youtu.be/o8kTtYUjaj0",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 500,
+            "percent": 100
+        },
+        {
+            "user": "whippd",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 120,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 120,
+            "percent": 100
+        },
+        {
+            "user": "BLUJAYOO",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Izan",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "KrAzY DuDe LR",
+            "hz": 480,
+            "percent": 100
+        }
+    ]
+}

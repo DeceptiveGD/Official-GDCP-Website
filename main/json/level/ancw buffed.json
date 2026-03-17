@@ -1,0 +1,76 @@
+{
+    "id": 108765971,
+    "name": "ancw buffed",
+    "author": "lithiumbatteries",
+    "creators": ["lithiumbatteries"],
+    "verifier": "lithiumbatteries",
+    "verification": "https://www.youtube.com/watch?v=t3RfJHycUoM",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "SadCraft0o",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Ballerman93",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Turbometric",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true,
+            "video": "https://www.youtube.com/watch?v=GGhKvWZtdUw"
+        },
+        {
+            "user": "Miksutic",
+            "video": "https://www.youtube.com/watch?v=7DgDJY03TJ8",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Mako",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Frostytoes",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Monkey",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "elm",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 709,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=bNVrkQRCR0M&feature=youtu.be"
+        },
+        {
+            "user": "tyhhkyfv",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "EndGrain",
+            "hz": 144,
+            "percent": 100
+        }
+    ]
+}

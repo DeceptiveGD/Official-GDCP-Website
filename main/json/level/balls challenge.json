@@ -1,0 +1,55 @@
+{
+    "id": 93060084,
+    "name": "balls challenge",
+    "author": "FrostyToes",
+    "creators": ["FrostyToes"],
+    "verifier": "FrostyToes",
+    "verification": "https://youtu.be/MTKh6xvgALY",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "potato",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=PSWT2q9Wn1Q",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Turbometric",
+            "video": "https://www.youtube.com/watch?v=gfqlQlPjL1U",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "block of cheese",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

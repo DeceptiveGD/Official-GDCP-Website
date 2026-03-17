@@ -85,14 +85,20 @@ async function classicJSON()
     const response = await fetch("../../main/json/list.json");
     const levels = await response.json();
     let listCount = levels.length;
-    console.log(listCount) 
 
     var text = "";
     for (var i = 0; i < listCount; i++)
     {
         let challenge = levels[i];
 
-        text += "<tr><td class=\"levelitem\">" + (i+1) + ". "+ challenge +"</td></tr>"
+        if (i + 1 <= 150)
+        {
+            text += "<tr><td class=\"levelitem\" onclick=\"levelInfo('" + challenge + "')\">" + (i+1) + ". "+ challenge +"</td></tr>";
+        }
+        else
+        {
+            text += "<tr><td class=\"levelitem\" onclick=\"levelInfo('" + challenge + "')\">Legacy  "+ challenge +"</td></tr>";
+        }
     }
     const innerlist = document.getElementById("innerlevellist");
     innerlist.innerHTML = text;

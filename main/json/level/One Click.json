@@ -1,0 +1,151 @@
+{
+    "id": 105829484,
+    "name": "One Click",
+    "author": "TSA",
+    "creators": ["TSA"],
+    "verifier": "TSA",
+    "verification": "https://youtu.be/Zkht8244EPM",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "SH41N3",
+            "video": "https://medal.tv/games/geometry-dash/clips/ibLFVL9XZDXXbroda/d1337g6ORmlB?invite=cr-MSxIWVAsMjA0NjczODMyLA",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "vinc_burger",
+            "video": "https://discord.com/channels/1242962829573619842/1242983166478782484/1257800851842535464",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Gp0",
+            "video": "https://discord.com/channels/1242962829573619842/1242983166478782484/1257797567329079366",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=PSWT2q9Wn1Q",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "DeceptiveGD",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "naqte",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "lithiumbatteries",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "SadCraft0o",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Turbometric",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "SoulsShards",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Allu",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "FraTernity",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Isnt_Adam",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "mewo",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Randum",
+             "hz": 144,
+             "percent": 100
+        },
+        {
+            "user": "Mylam999",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ballerman93",
+            "hz": 165,
+            "percent": 100
+        },
+        {
+            "user": "shakupencheesegd",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "video": "https://www.youtube.com/watch?v=7DgDJY03TJ8",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Slashy",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Frostytoes",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Monkey",
+            "hz": 240,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=6W0KIpZnyD0"
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

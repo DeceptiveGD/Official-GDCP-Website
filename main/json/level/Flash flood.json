@@ -1,0 +1,17 @@
+{
+    "id": 114413904,
+    "name": "Flash flood",
+    "author": "Runaia",
+    "creators": ["Runaia"],
+    "verifier": "Imfeelinggreen",
+    "verification": "https://www.youtube.com/watch?v=-CbIo4Ac7-0",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+       {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

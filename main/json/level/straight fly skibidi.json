@@ -1,0 +1,69 @@
+{
+    "id": 105907340,
+    "name": "straight fly skibidi",
+    "author": "VileBunny",
+    "creators": ["VileBunny"],
+    "verifier": "VileBunny",
+    "verification": "https://youtu.be/M9ZQtaigLMg",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "SH41N3",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=PSWT2q9Wn1Q",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "naqte",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 500,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "EndGrain",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "SlysantYT",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=VYH85r6gnP0"
+        }
+    ]
+}

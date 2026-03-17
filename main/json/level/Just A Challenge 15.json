@@ -1,0 +1,40 @@
+
+{
+    "id": 106419496,
+    "name": "Just A Challenge 15",
+    "author": "Potato",
+    "creators": ["Potato"],
+    "verifier": "Potato",
+    "verification": "https://youtu.be/D9VVlLvOcgU",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "tresarcusu",
+            "video": "https://medal.tv/games/geometry-dash/clips/ibLKxUGj2R0pz8hy-/6E5Et2fPp8xk?invite=cr-MSx4S2YsMjQ4MTY5MzY0LA",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://youtu.be/bEWt0owD7Bg?si=BXhm8hyWmgOXrnSm",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

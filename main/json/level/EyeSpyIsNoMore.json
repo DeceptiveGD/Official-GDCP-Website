@@ -1,0 +1,22 @@
+{
+    "id":  112070989,
+    "name": "EyeSpyIsNoMore",
+    "author": "Sadcraft0o",
+    "creators": ["Sadcraft0o"],
+    "verifier": "Sadcraft0o",
+    "verification": "https://youtu.be/_-doUMNnfZw",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 144,
+            "percent": 100
+        }
+    ]
+}

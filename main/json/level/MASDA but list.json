@@ -1,0 +1,66 @@
+{
+    "id": 106427949,
+    "name": "MASDA but list",
+    "author": "potato",
+    "creators": ["potato"],
+    "verifier": "potato",
+    "verification": "https://youtu.be/TmMQKcXbgfQ",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "video": "https://youtu.be/utcYswGjVEI",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://youtu.be/bEWt0owD7Bg?si=BXhm8hyWmgOXrnSm",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Isnt_Adam",
+            "video": "https://www.youtube.com/watch?v=BbUdcAou7bs",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "whippd",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 500,
+            "percent": 100
+        },
+        {
+            "user": "ImFeelingGreen",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 120,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=bKOX9uoz7Gg"
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 120,
+            "percent": 100
+        },
+        {
+            "user": "KrAzY DuDe LR",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

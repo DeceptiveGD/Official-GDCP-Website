@@ -1,0 +1,67 @@
+{
+    "id": 108555699,
+    "name": "Congress",
+    "author": "Redacted",
+    "creators": ["Redacted"],
+    "verifier": "whippd",
+    "verification": "https://youtu.be/A0UAzgiTZ6M",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Mako",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Monkey",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 162,
+            "percent": 100
+        },
+        {
+            "user": "Redacted",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "venla",
+            "hz": 480,
+            "percent": 100
+        }
+    ]
+}

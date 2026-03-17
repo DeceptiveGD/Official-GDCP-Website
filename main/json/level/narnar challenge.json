@@ -1,0 +1,17 @@
+{
+    "id": 114036280,
+    "name": "narnar challenge",
+    "author": "block of cheese",
+    "creators": ["block of cheese"],
+    "verifier": "NatNat",
+    "verification": "https://www.youtube.com/watch?v=YVPDQ8sKSwY",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+    {
+        "user": "Miksutic",
+        "hz": 360,
+        "percent": 100
+    }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": 104601238,
+    "name": "Fun Challenge",
+    "author": "W1ld",
+    "creators": ["W1ld"],
+    "verifier": "W1ld",
+    "verification": "https://youtu.be/H99vGaIb1II",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "SH41N3",
+            "video": "https://medal.tv/games/geometry-dash/clips/ibwXsLxGpAanOlLvO/d13374Wm7gx0?invite=cr-MSxUODgsMjA0NjczODMyLA",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "naqte",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "SadCraft0o",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=DOqMblbvE_g",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Monkey",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 500,
+            "percent": 100
+        },
+        {
+            "user": "SlysantYT",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "kagu",
+            "hz": 120,
+            "percent": 100
+        },
+        {
+            "user": "frostytoes",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Turbometric",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

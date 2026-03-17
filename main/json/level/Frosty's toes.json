@@ -1,0 +1,45 @@
+{
+    "id": 105767583,
+    "name": "Frostys toes",
+    "author": "Vetom1479",
+    "creators": ["Vetom1479"],
+    "verifier": "Vetom1479",
+    "verification": "https://youtu.be/2GM0ZRvBluA",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "SH41N3",
+            "video": "https://medal.tv/games/geometry-dash/clips/ibLJkWJ6FhALJuK8g/d1337YnIAHR2?invite=cr-MSw5ckcsMjA0NjczODMyLA",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "SadCraft0o",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=PSWT2q9Wn1Q",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "naqte",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Turbometric",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        }
+    ]
+}

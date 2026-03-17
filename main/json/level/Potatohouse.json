@@ -1,0 +1,47 @@
+{
+    "id": 113129195,
+    "name": "Potatohouse",
+    "author": "Tsa",
+    "creators": ["Tsa"],
+    "verifier": "Bobify",
+    "verification": "https://www.youtube.com/watch?v=iFrs22UolUk",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Potato",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "mewo",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Turbometric",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "deacnome",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

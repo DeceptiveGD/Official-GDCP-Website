@@ -1,0 +1,23 @@
+{
+    "id": 108638260,
+    "name": "whipped",
+    "author": "runaia",
+    "creators": ["runaia"],
+    "verifier": "whippd",
+    "verification": "https://www.youtube.com/watch?v=MJKIIcWNF6w",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}       
+

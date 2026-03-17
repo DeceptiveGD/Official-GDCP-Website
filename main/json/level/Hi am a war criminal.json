@@ -1,0 +1,17 @@
+{
+    "id": 111754256,
+    "name": "Hi am a war criminal",
+    "author": "Runaia",
+    "creators": ["Runaia"],
+    "verifier": "Allu",
+    "verification": "https://www.youtube.com/watch?v=l3MVwg8F3wg",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Maxa",
+            "hz": 144,
+            "percent": 100
+        }
+    ]
+}

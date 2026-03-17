@@ -1,0 +1,60 @@
+{
+    "id": 108616123,
+    "name": "ball of steel",
+    "author": "Mylam999",
+    "creators": ["Mylam999"],
+    "verifier": "Mylam999",
+    "verification": "https://youtu.be/icBl-NoaV1o",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Turbometric",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "monkey",
+            "hz": 240,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Ballerman93",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "video": "https://youtu.be/qUIbJqa0IDg",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "allu",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Frostytoes",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 500,
+            "percent": 100
+        },
+        {
+            "user": "tyhhkyfv",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

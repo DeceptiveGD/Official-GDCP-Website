@@ -1,0 +1,29 @@
+{
+    "id": 107043700,
+    "name": "CARDYLLI",
+    "author": "Potato",
+    "creators": ["Potato"],
+    "verifier": "Potato",
+    "verification": "https://youtu.be/31HqoD_JvTw",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "video": "",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=DOqMblbvE_g",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

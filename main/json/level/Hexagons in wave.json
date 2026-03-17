@@ -1,0 +1,31 @@
+{
+    "id": 108379050,
+    "name": "Hexagons in wave",
+    "author": "Miksutic",
+    "creators": ["Miksutic"],
+    "verifier": "Miksutic",
+    "verification": "https://www.youtube.com/watch?v=fO18u7zbFcA",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [    {
+        "user": "whippd",
+        "hz": 240,
+        "percent": 100
+    },
+    {
+        "user": "Farlayy",
+        "hz": 240,
+        "percent": 100
+    },
+         {
+            "user": "NatNat",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        }
+]
+}

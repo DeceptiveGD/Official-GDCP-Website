@@ -1,0 +1,37 @@
+{
+    "id": 118399492,
+    "name": "dry out wave",
+    "author": "jdeen",
+    "creators": ["jdeen"],
+    "verifier": "jdeen",
+    "verification": "https://www.youtube.com/watch?v=QymZ8E6hiIc",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "LoB",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "zizo",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Paradox",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}       

@@ -1,0 +1,23 @@
+{
+    "id": 105846360,
+    "name": "SadCraft's Demise",
+    "author": "Vetom1479",
+    "creators": ["Vetom1479"],
+    "verifier": "Vetom1479",
+    "verification": "https://youtu.be/SOHAlxbFwIg",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=PSWT2q9Wn1Q",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

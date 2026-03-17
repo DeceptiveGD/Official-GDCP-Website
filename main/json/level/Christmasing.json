@@ -1,0 +1,32 @@
+{
+    "id": 113328477,
+    "name": "Christmasing",
+    "author": "Turbometric",
+    "creators": ["Turbometric"],
+    "verifier": "Turbometric",
+    "verification": "https://youtu.be/jeyLC84z1Bg?si=GMTWDYqFl8UA_h32",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "jdeen",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": 108563054,
+    "name": "Juggernog",
+    "author": "whippd",
+    "creators": ["whippd and Koozoo2000"],
+    "verifier": "whippd",
+    "verification": "https://youtu.be/QV7Za-zulIA",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Koozoo2000",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "ImeFeelingGreen",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "tFluffy",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": 96272980,
+    "name": "coakcore",
+    "author": "whippd",
+    "creators": ["whippd"],
+    "verifier": "whippd",
+    "verification": "https://youtu.be/d-EdgEOuT4Q",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "ImFeelingGreen",
+            "hz": 165,
+            "percent": 100
+        },
+        {
+            "user": "tFluffy",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}       
+

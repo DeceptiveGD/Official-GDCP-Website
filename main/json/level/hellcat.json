@@ -1,0 +1,22 @@
+{
+    "id": 108276038,
+    "name": "hellcat",
+    "author": "Allu",
+    "creators": ["Allu"],
+    "verifier": "Allu",
+    "verification": "https://www.youtube.com/watch?v=8wn2HU3nGg0",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Voiddle",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

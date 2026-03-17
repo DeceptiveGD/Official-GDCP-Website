@@ -1,0 +1,16 @@
+{
+    "id": 127382040,
+    "name": "wavescapes",
+    "author": "izan",
+    "creators": ["izan"],
+    "verifier": "izan",
+    "verification": "https://www.youtube.com/watch?v=H6Ktek2PKTo",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [        {
+            "user": "Hellofriendevan",
+            "hz": 120,
+            "percent": 100
+        }
+    ]
+}

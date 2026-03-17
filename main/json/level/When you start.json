@@ -1,0 +1,55 @@
+{
+    "id": 109337910,
+    "name": "When you start",
+    "author": "Miksutic",
+    "creators": ["Miksutic"],
+    "verifier": "Miksutic",
+    "verification": "https://youtu.be/dCWMaDj5FVM",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Turbometric",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "monkey",
+            "hz": 240,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Bobify",
+            "hz": 240,
+            "percent": 100,
+            "video": "https://youtu.be/3UihuMaTmNs"
+        },
+        {
+            "user": "Spunstep",
+            "hz": 500,
+            "percent": 100
+        },
+        {
+            "user": "EndGrain",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "SlysantYT",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "frostytoes",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "id": 108266278,
+    "name": "Level Name",
+    "author": "FraTernity",
+    "creators": ["FraTernity"],
+    "verifier": "FraTernity",
+    "verification": "https://www.youtube.com/watch?v=XYffjb4Tm2Q",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Voiddle",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Ballerman93",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "video": "https://youtu.be/qUIbJqa0IDg",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Frostytoes",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Monkey",
+            "hz": 240,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=Erma2MLKruQ"
+        },
+        {
+            "user": "Spunstep",
+            "hz": 500,
+            "percent": 100
+        },
+        {
+            "user": "tyhhkyfv",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "EndGrain",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "allu",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "KingClockerYT1",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

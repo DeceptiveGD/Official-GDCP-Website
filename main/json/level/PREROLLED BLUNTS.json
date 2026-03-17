@@ -1,0 +1,18 @@
+{
+    "id": 128546311,
+    "name": "PREROLLED BLUNTS",
+    "author": "slided_",
+    "creators": ["slided_"],
+    "verifier": "slided_",
+    "verification": "https://www.youtube.com/watch?v=hOt5zB-AajU",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100,
+            "video": "https://youtu.be/9jnh-kAKA9E?si=8c-gmSN0PSKEqTx5"
+        }
+    ]
+}

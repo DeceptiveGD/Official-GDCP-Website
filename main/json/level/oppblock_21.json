@@ -1,0 +1,34 @@
+{
+    "id": 107151637,
+    "name": "oppblock21",
+    "author": "KrisYa",
+    "creators": ["KrisYa"],
+    "verifier": "KrisYa",
+    "verification": "https://youtu.be/l0pA1q4Snys",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "video": "https://www.youtube.com/watch?v=AC0IsFyBvc0",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "whippd",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}
+

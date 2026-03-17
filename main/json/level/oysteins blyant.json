@@ -1,0 +1,22 @@
+{
+    "id": 110127284,
+    "name": "oysteins blyant",
+    "author": "Bobify",
+    "creators": ["Bobify", "Potato"],
+    "verifier": "Bobify",
+    "verification": "https://www.youtube.com/watch?v=8dGe0UEVkR4",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+         {
+            "user": "whippd",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "KrAzY DuDe LR",
+            "hz": 480,
+            "percent": 100
+        }
+    ]
+}

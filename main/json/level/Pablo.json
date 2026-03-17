@@ -1,0 +1,34 @@
+{
+    "id": 105759275,
+    "name": "Pablo",
+    "author": "Vetom1479",
+    "creators": ["Vetom1479"],
+    "verifier": "Vetom1479",
+    "verification": "https://youtu.be/3VCU0R1T8ec",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "potato",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=PSWT2q9Wn1Q",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "naqte",
+            "hz": 144,
+            "percent": 100
+        }
+
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": 106198755,
+    "name": "Zonk",
+    "author": "thumb",
+    "creators": ["thumb"],
+    "verifier": "thumb",
+    "verification": "https://www.youtube.com/watch?app=desktop&v=K5xyQ9_r8DI",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 120,
+            "percent": 100
+        },
+        {
+            "user": "EndGrain",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

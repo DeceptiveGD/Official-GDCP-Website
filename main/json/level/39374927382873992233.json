@@ -1,0 +1,28 @@
+{
+    "id": 109581146,
+    "name": "39374927382873992233",
+    "author": "Mylam999",
+    "creators": ["Mylam999"],
+    "verifier": "Turbometric",
+    "verification": "https://youtu.be/RK_cZfR4crs",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Potato",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 144,
+            "percent": 100
+        }
+    ]
+}       
+

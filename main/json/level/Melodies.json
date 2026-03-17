@@ -1,0 +1,38 @@
+{
+    "id": 111269249,
+    "name": "Melodies",
+    "author": "KingClockerYT1",
+    "creators": ["KingClockerYT1"],
+    "verifier": "KingClockerYT1",
+    "verification": "https://youtu.be/_FfYusnYu-o?si=YaONpGsmSUcTKIwl",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Tacojed",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Potato",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 162,
+            "percent": 100
+        },
+        {
+        "user": "Miksutic",
+        "hz": 240,
+        "percent": 100
+        },
+        {
+            "user": "BLUJAYOO",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}       
+

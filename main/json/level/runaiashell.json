@@ -1,0 +1,42 @@
+{
+    "id": 109430923,
+    "name": "runaiashell",
+    "author": "Frostytoes",
+    "creators": ["Frostytoes"],
+    "verifier": "Frostytoes",
+    "verification": "https://youtu.be/h2nl89UccuU",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Tacojed",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Potato",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        }
+    ]    
+}

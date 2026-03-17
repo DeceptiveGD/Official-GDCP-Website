@@ -1,0 +1,22 @@
+{
+    "id": 108571855,
+    "name": "MASDAbate",
+    "author": "NatNat",
+    "creators": ["NatNat"],
+    "verifier": "NatNat",
+    "verification": "https://youtu.be/e_oJnm4D7kM",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "whippd",
+            "hz": 480,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 120,
+            "percent": 100
+        }
+    ]
+}

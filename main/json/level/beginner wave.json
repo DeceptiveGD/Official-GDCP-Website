@@ -1,0 +1,80 @@
+{
+    "id": 107232550,
+    "name": "beginner wave",
+    "author": "erifcidan",
+    "creators": ["erifcidan"],
+    "verifier": "simse",
+    "verification": "https://www.youtube.com/watch?v=JCviX5-sMuA",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=DOqMblbvE_g",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "video": "",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "video": "https://www.youtube.com/watch?v=7DgDJY03TJ8",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "stinkypinky",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "whippd",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Potato",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "VileBunny",
+            "hz": 1000,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 120,
+            "percent": 100
+        },
+        {
+            "user": "Frostytoes",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "SH41N3",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Sylvia",
+            "hz": 240,
+            "percent": 100    
+        },
+        {
+            "user": "Rkx",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

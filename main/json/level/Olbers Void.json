@@ -1,0 +1,17 @@
+{
+    "id": 115674675,
+    "name": "Olbers Void",
+    "author": "troyy5",
+    "creators": ["troyy5"],
+    "verifier": "Paradox",
+    "verification": "https://youtu.be/HEbrCbdw9e4",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": 105849831,
+    "name": "i omor",
+    "author": "mewo",
+    "creators": ["mewo"],
+    "verifier": "mewo",
+    "verification": "https://youtu.be/NgaNAYwDOTk",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "potato",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=PSWT2q9Wn1Q",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 120,
+            "percent": 100
+        }
+    ]
+}

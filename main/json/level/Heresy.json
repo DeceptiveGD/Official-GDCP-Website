@@ -1,0 +1,59 @@
+{
+    "id": 107362514,
+    "name": "Heresy",
+    "author": "IamFarbo",
+    "creators": ["IamFarbo"],
+    "verifier": "IamFarbo",
+    "verification": "https://www.youtube.com/watch?v=X2TGnMsEues",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "naqte",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "SadCraft0o",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=DOqMblbvE_g",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "mewo",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "video": "https://youtu.be/CdwSvZ15DQg?si=71IA0CVsaECeoO36",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 500,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

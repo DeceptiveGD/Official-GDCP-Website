@@ -1,0 +1,28 @@
+{
+    "id": 109923044,
+    "name": "Heta Dan",
+    "author": "whippd",
+    "creators": ["whippd"],
+    "verifier": "whippd",
+    "verification": "https://youtu.be/AyZG9lYPlMA?si=H_38DRKI2oi1Foui",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+         {
+            "user": "ImFeelingGreen",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "video": "https://www.youtube.com/watch?v=XzMnRRzUHbs",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Skippy",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

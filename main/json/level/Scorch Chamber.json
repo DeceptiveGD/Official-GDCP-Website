@@ -1,0 +1,23 @@
+{
+    "id": 111779595,
+    "name": "Scorch Chamber",
+    "author": "melon",
+    "creators": ["melon"],
+    "verifier": "melon",
+    "verification": "https://www.youtube.com/watch?v=f_8Dygp91IU",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "whippd",
+            "hz": 480,
+            "percent": 100,
+            "video" : "https://youtu.be/TQxmb0B15_I"
+        },
+        {
+            "user": "ImFeelingGreen",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}       

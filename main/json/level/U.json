@@ -1,0 +1,75 @@
+{
+    "id": 108731210,
+    "name": "U",
+    "author": "Mylam999",
+    "creators": ["Mylam9999"],
+    "verifier": "Turbometric",
+    "verification": "https://youtu.be/VFAsgCSuWIc",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "ballerman93",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "monkey",
+            "hz": 240,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Allu",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "lithiumbatteries",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "video": "https://youtu.be/qUIbJqa0IDg",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Slashy",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Frostytoes",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 500,
+            "percent": 100
+        },
+        {
+            "user": "tyhhkyfv",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "EndGrain",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "TSA",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        }
+    ]
+}

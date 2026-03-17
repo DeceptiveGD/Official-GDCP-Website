@@ -1,0 +1,23 @@
+{
+    "id": 108706116,
+    "name": "I Whip",
+    "author": "whippd",
+    "creators": ["whippd"],
+    "verifier": "whippd",
+    "verification": "https://youtu.be/w9HHNA-8Uqo",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Koozoo2000",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "ImFeelingGreen",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}       
+

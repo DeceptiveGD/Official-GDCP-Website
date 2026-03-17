@@ -1,0 +1,29 @@
+{
+    "id": 113222107,
+    "name": "I cant fix you",
+    "author": "KingClockerYT1",
+    "creators": ["KingClockerYT1"],
+    "verifier": "KingClockerYT1",
+    "verification": "https://youtu.be/HR99rPRLvGU?si=Ztbs9p2wIqD6tIyg",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100,
+            "video": "https://youtu.be/QDjxILQxY-0"
+        },
+        {
+            "user": "Turbometric",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}       
+

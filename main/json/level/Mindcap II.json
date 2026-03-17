@@ -1,0 +1,32 @@
+{
+    "id": 120607390,
+    "name": "Mindcap II",
+    "author": "Turbometric",
+    "creators": ["Turbometric and DragonDude"],
+    "verifier": "Turbometric",
+    "verification": "https://youtu.be/N2uwy_6abi8",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Flip15",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Umbra",
+            "hz": 144,
+            "percent": 100
+        }
+    ]
+}

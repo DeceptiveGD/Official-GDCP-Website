@@ -1,0 +1,22 @@
+{
+    "id": 109851801,
+    "name": "slaughterdynamix",
+    "author": "poqqers",
+    "creators": ["poqqers"],
+    "verifier": "whippd",
+    "verification": "https://youtu.be/uo2ESzWkzjs",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 120,
+            "percent": 100
+        }
+    ]
+}

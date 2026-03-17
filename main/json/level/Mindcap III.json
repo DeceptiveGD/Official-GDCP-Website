@@ -1,0 +1,17 @@
+{
+    "id": 120608436,
+    "name": "Mindcap III",
+    "author": "Turbometric",
+    "creators": ["Turbometric and DragonDude"],
+    "verifier": "Turbometric",
+    "verification": "https://www.youtube.com/live/2xFZVSZ6kVQ?si=yIlc7QGnomyLk_al",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

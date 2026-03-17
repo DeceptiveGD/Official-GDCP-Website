@@ -1,0 +1,18 @@
+{
+    "id": 94777014,
+    "name": "Firework challenge",
+    "author": "Maxa",
+    "creators": ["Maxa"],
+    "verifier": "Maxa",
+    "verification": "https://www.youtube.com/watch?v=pg0vEZLYSeM&list=PLkvCgJvCsfFLtvQDdEIp2sRYGFzEi-iWm&index=2",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+
+        {
+            "user": "Krusevac",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

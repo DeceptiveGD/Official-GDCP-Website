@@ -1,0 +1,45 @@
+{
+    "id": 107430746,
+    "name": "afterthere benjamin",
+    "author": "mewo",
+    "creators": ["INTER and mewo"],
+    "verifier": "KrisYa",
+    "verification": "https://www.youtube.com/watch?v=9WmjQAMcvCc",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "video": "https://youtu.be/CdwSvZ15DQg?si=71IA0CVsaECeoO36",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "SadCraft0o",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "tresarcusu",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "mewo",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100
+        }
+
+    ]
+}       
+

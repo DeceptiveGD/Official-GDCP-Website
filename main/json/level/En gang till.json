@@ -1,0 +1,54 @@
+{
+    "id": 105998761,
+    "name": "En gang till",
+    "author": "DeceptiveGD",
+    "creators": ["DeceptiveGD"],
+    "verifier": "DeceptiveGD",
+    "verification": "https://youtu.be/o17AXJbW_0E",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "naqte",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=DOqMblbvE_g",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=ZxRFQgR9fd0"
+        },
+        {
+            "user": "Spunstep",
+            "hz": 120,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 111846291,
+    "name": "Platformer In Normal",
+    "author": "potato",
+    "creators": ["potato"],
+    "verifier": "potato",
+    "verification": "https://www.youtube.com/watch?v=24-IYLb3PXg",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "whippd",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

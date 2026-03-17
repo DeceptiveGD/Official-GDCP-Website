@@ -1,0 +1,93 @@
+{
+    "id": 105770308,
+    "name": "Wave Carried",
+    "author": "SadCraft0o",
+    "creators": ["SadCraft0o"],
+    "verifier": "SadCraft0o",
+    "verification": "https://www.youtube.com/watch?v=r3xRmkFwH9g&t=77s",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "potato",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "SH41N3",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=PSWT2q9Wn1Q",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Monkey",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "EndGrain",
+            "hz": 120,
+            "percent": 100
+        },
+        {
+            "user": "deacnome",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "jdeen",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 120,
+            "percent": 100
+        },
+        {
+            "user": "random",
+            "hz": 720,
+            "percent": 100
+        },
+         {
+            "user": "BLUJAYOO",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

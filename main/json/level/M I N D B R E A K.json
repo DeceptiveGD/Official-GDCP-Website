@@ -1,0 +1,38 @@
+{
+    "id": 105619903,
+    "name": "M I N D B R E A K",
+    "author": "Glitched77",
+    "creators": ["Glitched77"],
+    "verifier": "Glitched77",
+    "verification": "https://youtu.be/c2zuN_07ZxU",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=PSWT2q9Wn1Q",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

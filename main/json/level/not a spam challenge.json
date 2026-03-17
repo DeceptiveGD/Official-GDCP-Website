@@ -1,0 +1,42 @@
+{
+    "id": 110067662,
+    "name": "not a spam challenge",
+    "author": "xdiim",
+    "creators": ["xdiim"],
+    "verifier": "xdiim",
+    "verification": "https://youtu.be/bKUZ40XuxfQ",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Tacojed",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "EndGrain",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 164,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 120,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Atgg",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

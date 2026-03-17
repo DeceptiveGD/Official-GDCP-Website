@@ -1,0 +1,32 @@
+{
+    "id": 118013046,
+    "name": "CRAZY CONSISTENCY",
+    "author": "Maxa",
+    "creators": ["Maxa"],
+    "verifier": "Maxa",
+    "verification": "https://www.youtube.com/watch?v=i_0E4bSjvXI",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+       {
+            "user": "jdeen",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 120,
+            "percent": 100
+        },
+        {
+            "user": "Sylvia",
+            "hz": 240,
+            "percent": 100    
+        },
+        {
+            "user": "VenVren",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

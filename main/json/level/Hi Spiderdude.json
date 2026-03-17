@@ -1,0 +1,16 @@
+{
+    "id": 114298371,
+    "name": "Hi Spiderdude",
+    "author": "NatNat",
+    "creators": ["NatNat"],
+    "verifier": "NatNat",
+    "verification": "https://www.youtube.com/watch?v=oS3uo3ff9KI",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Hellofriendevan",
+            "hz": 120,
+            "percent": 100
+        }]
+}

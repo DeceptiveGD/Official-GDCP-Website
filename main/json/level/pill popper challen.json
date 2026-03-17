@@ -1,0 +1,22 @@
+{
+    "id":  112059856,
+    "name": "pill popper challen",
+    "author": "secret",
+    "creators": ["secret"],
+    "verifier": "secret",
+    "verification": "https://youtu.be/Upo00F2E8OM?si=4oLPHlxA6oxgcw3S",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "EABH",
+            "hz": 120,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 144,
+            "percent": 100
+        }
+    ]
+}

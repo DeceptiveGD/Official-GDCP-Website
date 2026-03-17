@@ -1,0 +1,32 @@
+{
+    "id": 113666339,
+    "name": "HD",
+    "author": "EABH",
+    "creators": ["EABH"],
+    "verifier": "EABH",
+    "verification": "https://www.youtube.com/watch?v=3Krguc3aGfA",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+       {
+            "user": "NatNat",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "cralxn",
+            "hz": 480,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 144,
+            "percent": 100
+        }
+    ]
+}

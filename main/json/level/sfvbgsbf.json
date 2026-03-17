@@ -1,0 +1,57 @@
+{
+    "id": 105908376,
+    "name": "sfvbgsbf",
+    "author": "pinkpiss",
+    "creators": ["VileBunny"],
+    "verifier": "NatNat",
+    "verification": "https://youtu.be/xSMAyQHePFI",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [ {
+        "user": "whippd",
+        "hz": 240,
+        "percent": 100
+    },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=PSWT2q9Wn1Q",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "BLUJAYOO",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "KrAzY DuDe LR",
+            "hz": 480,
+            "percent": 100
+        },
+        {
+            "user": "tFluffy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "ringer",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

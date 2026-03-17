@@ -1,0 +1,17 @@
+{
+    "id": 96146312,
+    "name": "Arbitrary",
+    "author": "potato",
+    "creators": ["potato"],
+    "verifier": "potato",
+    "verification": "https://www.youtube.com/watch?v=O4Nzil-ifg4",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

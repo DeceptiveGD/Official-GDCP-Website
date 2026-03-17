@@ -1,0 +1,24 @@
+{
+    "id": 109541318,
+    "name": "cottage cheese",
+    "author": "Frostytoes",
+    "creators": ["Frostytoes"],
+    "verifier": "Frostytoes",
+    "verification": "https://www.youtube.com/watch?v=BJG2Ey7Aqf4",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        
+    {
+        "user": "Spunstep",
+        "hz": 500,
+        "percent": 100
+    },
+        {
+        "user": "Miksutic",
+        "hz": 240,
+        "percent": 100
+        }
+        
+    ]
+}

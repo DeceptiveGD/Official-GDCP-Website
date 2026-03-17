@@ -1,0 +1,18 @@
+{
+    "id": 106002646,
+    "name": "caleger clear",
+    "author": "Vetom1479",
+    "creators": ["Vetom1479"],
+    "verifier": "NatNat",
+    "verification": "https://youtu.be/CD6wIB5V5kU",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "KrisYa",
+            "video": "https://youtu.be/bEWt0owD7Bg?si=BXhm8hyWmgOXrnSm",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

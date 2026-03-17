@@ -1,0 +1,17 @@
+{
+    "id": 111879440,
+    "name": "Redux",
+    "author": "Falleneyes",
+    "creators": ["Falleneyes"],
+    "verifier": "Frostytoes",
+    "verification": "https://youtu.be/CkVhMoCsjUM",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

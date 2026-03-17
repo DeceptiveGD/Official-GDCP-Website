@@ -1,0 +1,22 @@
+{
+    "id": 107515467,
+    "name": "NHELV 100 NEW HARDES",
+    "author": "potato",
+    "creators": ["potato"],
+    "verifier": "potato",
+    "verification": "https://www.youtube.com/watch?v=QtbNSmfw1dg",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "NatNat",
+            "hz": 480,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 144,
+            "percent": 100
+        }
+    ]
+}

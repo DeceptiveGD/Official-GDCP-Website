@@ -1,0 +1,17 @@
+{
+    "id": 114128144,
+    "name": "Epilepsia",
+    "author": "EABH",
+    "creators": ["EABH"],
+    "verifier": "EABH",
+    "verification": "https://youtu.be/A6fNNfNwe7M",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "KrisYa",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

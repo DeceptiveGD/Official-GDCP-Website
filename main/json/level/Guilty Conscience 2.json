@@ -1,0 +1,22 @@
+{
+    "id": 108360865,
+    "name": "Guilty Conscience 2",
+    "author": "Harry",
+    "creators": ["Harry"],
+    "verifier": "Harry",
+    "verification": "https://youtu.be/pXX44En0VJ0",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "KrisYa",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

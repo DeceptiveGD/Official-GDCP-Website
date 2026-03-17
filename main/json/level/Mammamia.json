@@ -1,0 +1,31 @@
+{
+    "id": 125075144,
+    "name": "Mammamia",
+    "author": "allu",
+    "creators": ["allu"],
+    "verifier": "Potato",
+    "verification": "https://www.youtube.com/watch?v=Z2Mec2l_AlQ",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "BLUJAYOO",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "id": 107192184,
+    "name": "Underground",
+    "author": "vinc_burger",
+    "creators": ["vinc_burger"],
+    "verifier": "Tresarcusu",
+    "verification": "https://youtu.be/0krfsVau4gc",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Voiddle",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=DOqMblbvE_g",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "video": "",
+            "hz": 288,
+            "percent": 100
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "EndGrain",
+            "hz": 144,
+            "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 162,
+            "percent": 100
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Krusevac",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 120,
+            "percent": 100
+        },
+        {
+            "user": "SH41N3",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

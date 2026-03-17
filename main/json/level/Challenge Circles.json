@@ -1,0 +1,32 @@
+{
+    "id": 105960348,
+    "name": "Challenge Circles",
+    "author": "EABH",
+    "creators": ["EABH"],
+    "verifier": "KrisYa",
+    "verification": "https://youtu.be/LvV9bQu8jtE",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "whippd",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Hellofriendevan",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

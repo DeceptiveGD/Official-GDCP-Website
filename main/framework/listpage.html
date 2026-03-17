@@ -1,8 +1,8 @@
         <table id="menubar">
             <tr>
                 <td class="vdeadspace"></td>
-                <td style="text-align: right;"><a href="/Official-GDCP-Website/"><img src="../../main/images/small_list_icon.png" /></a></td>
-                <td class="menuitem" style="text-decoration: 5px underline;padding-left: 8px;padding-right: 12px;text-align: center;">Classic List</td>
+                <td style="text-align: right;"><a href="/index.html"><img src="../../main/images/small_list_icon.png" /></a></td>
+                <td class="menuitem" style="text-decoration: 4px underline;padding-left: 8px;padding-right: 12px;text-align: center;">Classic List</td>
                 <td class="menuitem"><a href="/Official-GDCP-Website/api/platformerlist/">Platformer List</a></td>
                 <td class="menuitem"><a href="/Official-GDCP-Website/api/leaderboard/">Leaderboard</a></td>
                 <td class="menuitem"><a href="/Official-GDCP-Website/api/roulette/">Roulette</a></td>
@@ -10,25 +10,56 @@
             </tr>
         </table>
         <div id="infocontainer">
-            <table style="width: 100%;">
+            <table class="table100">
                 <tr>
                     <td>
                         <!-- Level List -->
-                         <div id="levellist">
-                            <table id="innerlevellist">
-                                <tr>
-                                    <td class="levelitem">
-                                        
-                                    </td>
-                                </tr>
-                            </table>
-                         </div>
-                         
+                         <table class="table100" style="table-layout: fixed;">
+                            <tr>
+                                <td style="width: 20%;">
+                                    <div id="levellist">
+                                        <table id="innerlevellist">
+                                            <tr>
+                                                <td class="levelitem">
+                                                    
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                </td>
+                                <td style="width: 80%;">
+                                    <table id="levelinfo">
+                                        <tr>
+                                            <!-- Level Info -->
+                                             <td style="width: 50%;">
+                                                <table class="table100" style="height: 100%;">
+                                                    <tr>
+                                                        <td id="levelName" style="height: 35px;padding-top: 20px;">
+                                                            Level Name
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="height: 350px;">
+                                                            <div id="videoPlayer"></div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
 
-                        <!-- Level Info -->
-                         <table>
+                                                    </tr>
+                                                </table>
+                                             </td>
+                                            <!-- Completion Info -->
+                                             <td style="width: 50%;">
+                                                <table>
 
+                                                </table>
+                                             </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
                          </table>
+                        <!-- Level Info -->
                     </td>
                 </tr>
             </table>
