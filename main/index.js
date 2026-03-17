@@ -73,7 +73,6 @@ async function nextStep()
     {
         footerHTML = await mainpageFooterInfo();
     }
-    console.log(footerHTML);
 
     footer.innerHTML = footerHTML;
 }
