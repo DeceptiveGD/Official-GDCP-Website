@@ -151,3 +151,4 @@ window.toRoulettePage = toRoulettePage;
 window.toPlatlistPage = toPlatlistPage;
 
 window.startColorInterval = startColorInterval;
+window.toggleSidebar = toggleSidebar;
