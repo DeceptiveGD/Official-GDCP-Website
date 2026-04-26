@@ -1,16 +1,18 @@
 body
 {
-    height: 100%;
+    min-height: 100dvh;
+    height: auto;
     overflow-x: hidden;
     margin: 0px;
-    background-color: rgb(192, 31, 192);
+    background-color: rgb(30, 4, 30);
+    color: rgb(210, 210, 210);
     transition: background-color 3s ease;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 body.highlighted
 {
-    background-color: cornflowerblue;
+    background-color: rgb(13, 24, 48);
 }
 
 a:link, a:visited, a:hover, a:active
@@ -23,10 +25,55 @@ a:link, a:visited, a:hover, a:active
 
 #container
 {
-    height: 100%;
+    height: auto;
     display: grid;
     grid-template-columns: 1fr 1800px 1fr;
-    grid-template-rows: 50px auto auto auto auto 150px auto;
+    grid-template-rows: auto auto auto auto 150px auto;
+}
+
+#sidebarblur
+{
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    min-height: 100dvh;
+    height: auto;
+    z-index: 2;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: none;
+}
+
+#sidebarblur.active
+{
+    display: block;
+}
+
+#sidebar
+{
+    position: fixed;
+    display: grid;
+    padding: 0px;
+    grid-template-columns: auto;
+    grid-template-rows: 50px 50px 50px 50px 50px;
+    width: 200px;
+    padding: 20px;
+    height: 100%;
+    transform: translateX(-100%);
+    background-color: rgb(12, 1, 12);
+    z-index: 3;
+    transition: 0.2s;
+}
+
+#sidebar.visable
+{
+    transform: translateX(0%);
+}
+
+#sidebaropen
+{
+    padding: 20px;
+    place-items: center;
 }
 
 #titlegrid
@@ -46,7 +93,7 @@ a:link, a:visited, a:hover, a:active
     place-items: center;
     grid-template-columns: 2fr 4fr 4fr 4fr 2fr;
     grid-template-rows: auto auto;
-    background-color: rgb(9, 174, 228);
+    background-color: rgb(12, 109, 142);
     border-radius: 10px;
 }
 
@@ -105,7 +152,7 @@ a:link, a:visited, a:hover, a:active
 {
     height: 50px;
     width: 175px;
-    background-color: rgb(0, 191, 255);
+    background-color: rgb(15, 124, 160);
     box-shadow: 5px 5px 15px black;
     border-radius: 5px;
     font-size: 18px;
@@ -113,6 +160,24 @@ a:link, a:visited, a:hover, a:active
     text-align: center;
     place-self: center;
     place-content: center;
+}
+
+.sidebarcell
+{
+    font-size: 24px;
+    place-self: center;
+    overflow-x: hidden;
+}
+
+#closesidebar
+{
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 21px;
+    padding: 3px;
+    margin-right: 8px;
+    justify-self: right;
+    align-self: center;
 }
 
 /* Info */
@@ -129,13 +194,6 @@ a:link, a:visited, a:hover, a:active
 {
     width: 100%;
     margin-top: 20px;
-}
-
-.info
-{
-    width: 100%;
-    background-color: rgb(0, 191, 255);
-    border-radius: 10px;
 }
 
 #infocontainer
@@ -237,13 +295,23 @@ img
     padding: 10px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 2fr 3fr auto;
-    background-color: darkblue;
+    background-color: rgb(3, 3, 47);
     border-top: 3px solid black;
 }
 
 .footercell
 {
-    color: white;
+    color: whitesmoke;
+    border-bottom: 2px solid whitesmoke;
+    text-align: center;
+    align-content: center;
+    padding: 5px;
+    width: 95%;
+}
+
+.footercellpeople
+{
+    color: whitesmoke;
     text-align: center;
     align-content: center;
     padding: 5px;
@@ -266,14 +334,14 @@ img
 
 .footerdeadspace
 {
-    background-color: darkblue;
+    background-color: rgb(3, 3, 47);
     border-top: 3px solid black;
 }
 
 .footertopborder
 {
     width: 95%;
-    border-top: 2px solid black;
+    border-top: 2px solid white;
 }
 
 .vdeadspace
@@ -283,7 +351,7 @@ img
 
 .bluedeadspace
 {
-    background-color: darkblue;
+    background-color: rgb(3, 3, 47);
     width: 100%;
     height: 100%;
 }
@@ -311,7 +379,12 @@ img
     #container
     {
         grid-template-columns: 1fr 700px 1fr;
-        grid-template-rows: 30px auto auto auto auto 150px auto;
+        grid-template-rows: auto auto auto auto 150px auto;
+    }
+
+    #titlegrid
+    {
+        grid-template-rows: 170px;
     }
 
     #logo
@@ -326,6 +399,11 @@ img
     }
 
     .footercell
+    {
+        font-size: 14px;
+    }
+
+    .footercellpeople
     {
         font-size: 14px;
     }
@@ -354,8 +432,13 @@ img
 {
     #container
     {
-        grid-template-columns: 1fr 550px 1fr;
-        grid-template-rows: 30px auto auto auto auto 170px auto;
+        grid-template-columns: 1fr 500px 1fr;
+        grid-template-rows: auto auto auto auto 170px auto;
+    }
+
+    #titlegrid
+    {
+        grid-template-rows: 170px;
     }
 
     .titletext
@@ -368,19 +451,36 @@ img
         font-size: 11.5px;
     }
 
+    .footercellpeople
+    {
+        font-size: 11.5px;
+    }
+
     .button
     {
         height: 40px;
         width: 100px;
         font-size: 14px;
     }
+
+    #sidebaropen
+    {
+        height: 35px;
+        width: 35px;
+    }
 }
 
-@media (max-width: 550px)
+@media (max-width: 500px)
 {
     #container
     {
-        grid-template-columns: 1fr 350px 1fr;
+        grid-template-columns: 1fr 420px 1fr;
+        grid-template-rows: auto auto auto auto 170px auto;
+    }
+
+    #titlegrid
+    {
+        grid-template-rows: 150px;
     }
 
     #logo
@@ -395,6 +495,11 @@ img
     }
 
     .footercell
+    {
+        font-size: 10px;
+    }
+
+    .footercellpeople
     {
         font-size: 10px;
     }
@@ -421,5 +526,69 @@ img
         height: 30px;
         width: 60px;
         font-size: 10px;
+    }
+}
+
+@media (max-width: 420px)
+{
+    #container
+    {
+        grid-template-columns: 1fr 350px 1fr;
+    }
+
+    #titlegrid
+    {
+        grid-template-rows: 150px;
+    }
+
+    #logo
+    {
+        width: 90px;
+        height: 90px;
+    }
+
+    .titletext
+    {
+        font-size: 16px;
+    }
+
+    .footercell
+    {
+        font-size: 10px;
+    }
+
+    .footercellpeople
+    {
+        font-size: 10px;
+    }
+
+    #infogrid
+    {
+        margin: 20px 25px 10px;
+    }
+
+    #geodelogo
+    {
+        width: 31px;
+        height: 31px;
+    }
+
+    #discordlogo
+    {
+        width: 40px;
+        height: 31px;
+    }
+
+    .button
+    {
+        height: 30px;
+        width: 60px;
+        font-size: 10px;
+    }
+
+    #sidebaropen
+    {
+        height: 28px;
+        width: 28px;
     }
 }

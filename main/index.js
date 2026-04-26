@@ -57,24 +57,41 @@ async function nextStep()
 {
     const path = window.location.pathname;
     const container = document.getElementById("container");
+    const sidebar = document.getElementById("sidebar");
     console.log(path);
 
-    container.innerHTML = routes[path] || "404 Not found";
-
+    container.innerHTML = await routes[path] || "404 Not found";
     if (classicbool == true) classicJSON();
 
     const footer = document.getElementById("footer");
     let footerHTML = "";
+    let sidebarHTML = "";
     if (mainpagebool == false)
     {
         footerHTML = await footerInfo();
+        sidebarHTML = await sidebarHTML();
     }
     else
     {
         footerHTML = await mainpageFooterInfo();
+        sidebarHTML = await mainpageSidebarHTML();
+        mainpagebool = false;
     }
 
     footer.innerHTML = footerHTML;
+    sidebar.innerHTML = sidebarHTML;
+}
+
+
+//Open sidebar functions
+
+function toggleSidebar()
+{
+    const blur = document.getElementById("sidebarblur");
+    const sidebar = document.getElementById("sidebar");
+
+    blur.classList.toggle("active");
+    sidebar.classList.toggle("visable")
 }
 
 //Get JSON file functions
