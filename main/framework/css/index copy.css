@@ -302,7 +302,7 @@ img
 .footercell
 {
     color: whitesmoke;
-    border-bottom: 2px solid whitesmoke;
+    border-top: 2px solid whitesmoke;
     text-align: center;
     align-content: center;
     padding: 5px;
