@@ -7,6 +7,9 @@ import {mainPage as roulettePage} from "./roulettepage.js"
 import {mainPage as footerInfo} from "./footer.js"
 import {mainPage as mainpageFooterInfo} from "./mainpagefooter.js"
 
+import {mainPage as sidebarHTML} from "./sidebar.js"
+import {mainPage as mainpageSidebarHTML} from "./mainpagesidebar.js"
+
 const routes = {}
 
 let mainpage = "";
